@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(to right, #c8e6c9, #43a047);
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+h1{
+    color: red;
+}
+
+.caja{
+    background: rgb(247, 212, 212); /*COLOR DE FONDO*/
+    padding: 16px; /*RELLENO*/
+    box-shadow: 3px 3px 15px black; /*X Y BLUR COLOR*/
+    border-radius: 30px;
+}
+
+.detalle_directions{
+    color: grey;
+}
+
+.volver{
+    text-decoration: none;
+    color: rgb(4, 88, 2); /*COLOR TEXTO*/
+    font-weight: bold; /*NEGRITA*/
+}
